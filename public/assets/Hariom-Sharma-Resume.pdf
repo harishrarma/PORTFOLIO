@@ -26,8 +26,25 @@ endobj
 /Font <<
 /F1 6 0 R
 /F1-0 7 0 R
-/F2 8 0 R
-/F3 9 0 R
+/F1-1 8 0 R
+/F1-2 9 0 R
+/F1-3 10 0 R
+/F1-4 11 0 R
+/F1-5 12 0 R
+/F1-6 13 0 R
+/F1-7 14 0 R
+/F1-8 15 0 R
+/F1-9 16 0 R
+/F2 17 0 R
+/F2-0 18 0 R
+/F2-1 19 0 R
+/F2-2 20 0 R
+/F2-3 21 0 R
+/F2-4 22 0 R
+/F2-5 23 0 R
+/F2-6 24 0 R
+/F2-7 25 0 R
+/F2-8 26 0 R
 >>
 /ProcSet [ /ImageB /ImageC /ImageI /PDF /Text ]
 >>
@@ -35,387 +52,329 @@ endobj
 /Trans <<
 >>
 /Type /Page
-/Annots [ <<
-/Type /Annot
-/Subtype /Link
-/Rect [ 427.5 774.6398 559.5 786.6398 ]
-/Border [ 0 0 0 ]
-/A <<
-/S /URI
-/URI (https\072\057\057github\056com\057harishrarma)
->>
->> ]
+/Annots [ ]
 /Parent 2 0 R
 >>
 endobj
 5 0 obj
 <<
-/Length 12162
+/Length 52332
 >>
 stream
 q
+q
+q
+q
+q
+q
+q
+q
+q
+q
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
-1 0 0 1 32.92913 797.0472 cm
+1 0 0 1 51.35433 783.7087 cm
 q
-.121569 .184314 .52549 rg
-BT 1 0 0 1 0 1 Tm /F2 18 Tf 19 TL (HARIOM SHARMA) Tj T* ET
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 3 Tm /F2 18 Tf 21 TL 167.7945 0 Td (HARIOM SHARMA) Tj T* -167.7945 0 Td ET
 Q
 Q
 q
-1 0 0 1 32.92913 784.5472 cm
-q
-BT 1 0 0 1 0 .8 Tm 9.5 TL /F3 8.7 Tf 0 0 0 rg (Software Development & Implementation Candidate) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 775.3472 cm
+1 0 0 1 51.35433 769.7087 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 8.2 Tf 9.2 TL (+91 9103745223 | hariomgratra@gmail.com | linkedin.com/in/hariom-sharma | leetcode.com/u/sRADeOXztu) Tj T* ET
+BT 1 0 0 1 0 1.5 Tm /F2 9.5 Tf 11 TL 113.0032 0 Td (SOFTWARE ENGINEERING | FULL-STACK DEVELOPMENT) Tj T* -113.0032 0 Td ET
 Q
 Q
 q
-1 0 0 1 32.92913 759.8472 cm
+1 0 0 1 51.35433 755.7087 cm
 q
-.121569 .184314 .52549 rg
-BT 1 0 0 1 0 .7 Tm /F2 9.8 Tf 10.5 TL (PROFESSIONAL SUMMARY) Tj T* ET
+BT 1 0 0 1 0 2 Tm 78.82746 0 Td 10 TL /F1 8 Tf 0 0 0 rg (+91 9103745223  ) Tj (|) Tj (  harimagotra909@gmail.com  ) Tj (|) Tj (  LinkedIn  ) Tj (|) Tj (  GitHub  ) Tj (|) Tj (  LeetCode  ) Tj (|) Tj (  Portfolio) Tj T* -78.82746 0 Td ET
 Q
 Q
 q
-1 0 0 1 32.92913 757.6472 cm
+1 0 0 1 51.35433 738.2087 cm
 q
-.7 w
-1 J
-.121569 .184314 .52549 RG
-n 0 0 m 529.4173 0 l S
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10 Tf 11.5 TL (PROFESSIONAL SUMMARY) Tj T* ET
 Q
 Q
 q
-1 0 0 1 32.92913 716.6472 cm
+1 0 0 1 45.35433 735.7087 cm
 q
-BT 1 0 0 1 0 27.25 Tm 8.75 TL /F1 7.75 Tf 0 0 0 rg (Versatile Computer Science undergraduate with a strong foundation in full-stack web development, system integration, and cloud workflows. Proficient in) Tj T* (delivering robust software solutions using the ) Tj /F3 7.75 Tf (MERN stack) Tj /F1 7.75 Tf ( and ) Tj /F3 7.75 Tf (SQL databases) Tj /F1 7.75 Tf (. Adept at technical troubleshooting, end-to-end system implementation,) Tj T* (and project leadership. Eager to leverage hands-on development expertise and proven communication skills to drive technical excellence and user) Tj T* (satisfaction in Software Development, Implementation, or Customer Success roles.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 703.1472 cm
-q
-BT 1 0 0 1 0 .7 Tm 10.5 TL /F2 9.8 Tf .121569 .184314 .52549 rg (TECHNICAL & CORE COMPETENCIES) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 700.9472 cm
-q
-.7 w
-1 J
-.121569 .184314 .52549 RG
-n 0 0 m 529.4173 0 l S
-Q
-Q
-q
-1 0 0 1 32.92913 677.4472 cm
-q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Core Strengths:) Tj /F1 7.75 Tf ( System Implementation, Software Development, Client-Centric Problem Solving, Technical Troubleshooting, Cross-Functional) Tj T* 6.2 0 Td (Leadership.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 662.6972 cm
-q
-BT 1 0 0 1 8.5 1 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Programming Languages:) Tj /F1 7.75 Tf ( ) Tj /F3 7.75 Tf (C++, JavaScript, Python, Java, HTML5, CSS3.) Tj T* 6.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 32.92913 647.9472 cm
-q
-BT 1 0 0 1 8.5 1 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Web Technologies:) Tj /F1 7.75 Tf ( ) Tj /F3 7.75 Tf (React.js, Node.js, Express.js, RESTful APIs, Bootstrap, Responsive UI Development.) Tj T* 6.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 32.92913 633.1972 cm
-q
-BT 1 0 0 1 8.5 1 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Databases:) Tj /F1 7.75 Tf ( ) Tj /F3 7.75 Tf (MySQL, MongoDB, SQLite, SQL, Database Design, CRUD Operations.) Tj T* 6.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 32.92913 618.4472 cm
-q
-BT 1 0 0 1 8.5 1 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Tools & Platforms:) Tj /F1 7.75 Tf ( ) Tj /F3 7.75 Tf (Git, GitHub, Postman, Visual Studio Code, Streamlit.) Tj T* 6.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 32.92913 594.9472 cm
-q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Computer Science Fundamentals:) Tj /F1 7.75 Tf ( ) Tj /F3 7.75 Tf (Data Structures and Algorithms) Tj /F1 7.75 Tf ( \(120+ LeetCode problems solved\), ) Tj /F3 7.75 Tf (OOP, DBMS, Operating Systems,) Tj T* 6.2 0 Td (Computer Networks, System Design.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 581.4472 cm
-q
-.121569 .184314 .52549 rg
-BT 1 0 0 1 0 .7 Tm /F2 9.8 Tf 10.5 TL (PROFESSIONAL EXPERIENCE) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 579.2472 cm
-q
-.7 w
-1 J
-.121569 .184314 .52549 RG
-n 0 0 m 529.4173 0 l S
-Q
-Q
-q
-1 0 0 1 43.93701 568.4972 cm
-q
+.090196 .211765 .364706 rg
+n 0 .5 504.5669 -0.5 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
 q
-1 0 0 1 0 0 cm
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 734.2087 cm
+Q
+q
+1 0 0 1 51.35433 677.2087 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F3 7.75 Tf 8.75 TL (Full-Stack Web Developer Intern | Y-Hills) Tj T* ET
+BT 1 0 0 1 0 42.7 Tm /F1 8.3 Tf 10.2 TL (Computer Science and Engineering undergraduate with hands-on experience in full-stack software development, RESTful API) Tj T* (integration, relational and NoSQL databases, and cloud-computing concepts. Skilled in C++, Java, Python, JavaScript, SQL, and Git,) Tj T* (with practical experience building end-to-end applications, testing workflows, and collaborating through version control. Strong) Tj T* (foundation in Data Structures and Algorithms, Object-Oriented Programming, DBMS, and computer networks. Seeking an entry-level) Tj T* (software engineering opportunity to build reliable, maintainable software and grow through collaborative engineering.) Tj T* ET
 Q
 Q
 q
-1 0 0 1 388.3465 0 cm
+1 0 0 1 51.35433 661.7087 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F3 7.75 Tf 8.75 TL (Oct 2024 \227 Jan 2025) Tj T* ET
-Q
-Q
-q
-Q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10 Tf 11.5 TL (TECHNICAL SKILLS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 32.92913 544.9972 cm
+1 0 0 1 45.35433 659.2087 cm
 q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Software Development:) Tj /F1 7.75 Tf ( Developed and deployed full-stack features using ) Tj /F3 7.75 Tf (React.js, Node.js, Express.js, and MySQL) Tj /F1 7.75 Tf (, ensuring seamless interaction) Tj T* 6.2 0 Td (across frontend, backend, and database layers.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 521.4972 cm
-q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (System Implementation:) Tj /F1 7.75 Tf ( Designed and integrated ) Tj /F3 7.75 Tf (RESTful APIs) Tj /F1 7.75 Tf (, configured ) Tj /F3 7.75 Tf (MongoDB) Tj /F1 7.75 Tf ( storage solutions, and rigorously tested application workflows) Tj T* 6.2 0 Td (using ) Tj /F3 7.75 Tf (Postman) Tj /F1 7.75 Tf ( to ensure reliable end-user experiences.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 506.7472 cm
-q
-BT 1 0 0 1 8.5 1 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Collaboration:) Tj /F1 7.75 Tf ( Participated in ) Tj /F3 7.75 Tf (Git) Tj /F1 7.75 Tf (-based code reviews, demonstrating strong technical communication and teamwork in an agile environment.) Tj T* 6.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 43.93701 497.6472 cm
-q
+.090196 .211765 .364706 rg
+n 0 .5 504.5669 -0.5 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F3 7.75 Tf 8.75 TL (Summer Trainee \227 Cloud Computing | KodeZen Technologies) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.3465 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F3 7.75 Tf 8.75 TL (Jun 2026 \227 Jul 2026) Tj T* ET
-Q
-Q
+BT 1 0 0 1 6 5 Tm  T* ET
 q
 Q
 Q
 Q
 q
-1 0 0 1 32.92913 482.8972 cm
+1 0 0 1 51.35433 657.7087 cm
+Q
 q
-BT 1 0 0 1 8.5 1 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Workflow Integration:) Tj /F1 7.75 Tf ( Built a ) Tj /F3 7.75 Tf (cloud platform) Tj /F1 7.75 Tf ( focused on scalable data storage and efficient retrieval processes.) Tj T* 6.2 0 Td ET
+1 0 0 1 51.35433 641.5087 cm
+q
+BT 1 0 0 1 0 1.9 Tm 10.2 TL /F2 8.3 Tf 0 0 0 rg (Programming:) Tj /F1 8.3 Tf ( C++, Java, Python, JavaScript \(ES6+\), HTML5, CSS3) Tj T* ET
 Q
 Q
 q
-1 0 0 1 32.92913 459.3972 cm
+1 0 0 1 51.35433 615.1087 cm
 q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Implementation Focus:) Tj /F1 7.75 Tf ( Applied core ) Tj /F3 7.75 Tf (cloud application development) Tj /F1 7.75 Tf ( concepts to structure complex data workflows, ensuring high availability and) Tj T* 6.2 0 Td (secure data management.) Tj T* ET
+BT 1 0 0 1 0 12.1 Tm 10.2 TL /F2 8.3 Tf 0 0 0 rg (Software Engineering:) Tj /F1 8.3 Tf ( Object-Oriented Programming \(OOP\), Data Structures and Algorithms, RESTful APIs, CRUD operations,) Tj T* (application testing) Tj T* ET
 Q
 Q
 q
-1 0 0 1 43.93701 450.2972 cm
+1 0 0 1 51.35433 598.9087 cm
 q
-0 0 0 rg
-BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 0 cm
-q
-BT 1 0 0 1 0 1 Tm 8.75 TL /F3 7.75 Tf 0 0 0 rg (Summer Trainee \227 Robotics & Drone Making | CSVTU, Bhilai) Tj T* ET
+BT 1 0 0 1 0 1.9 Tm 10.2 TL /F2 8.3 Tf 0 0 0 rg (Frameworks & Libraries:) Tj /F1 8.3 Tf ( React.js, Node.js, Express.js, Bootstrap, Tailwind CSS) Tj T* ET
 Q
 Q
 q
-1 0 0 1 388.3465 0 cm
+1 0 0 1 51.35433 582.7087 cm
 q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F3 7.75 Tf 8.75 TL (Jul 2025 \227 Aug 2025) Tj T* ET
-Q
-Q
-q
-Q
+BT 1 0 0 1 0 1.9 Tm 10.2 TL /F2 8.3 Tf 0 0 0 rg (Databases:) Tj /F1 8.3 Tf ( MySQL, SQLite, MongoDB; database design and data retrieval) Tj T* ET
 Q
 Q
 q
-1 0 0 1 32.92913 426.7972 cm
+1 0 0 1 51.35433 566.5087 cm
 q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Technical Troubleshooting:) Tj /F1 7.75 Tf ( Engineered and implemented drone and robot prototypes using ) Tj /F3 7.75 Tf (LDR sensors) Tj /F1 7.75 Tf ( and ) Tj /F3 7.75 Tf (embedded systems coding) Tj /F1 7.75 Tf ( \(Grade:) Tj T* 6.2 0 Td (A+\).) Tj T* ET
+BT 1 0 0 1 0 1.9 Tm 10.2 TL /F2 8.3 Tf 0 0 0 rg (Tools & Platforms:) Tj /F1 8.3 Tf ( Git, GitHub, Postman, Visual Studio Code, Microsoft Azure \(cloud computing\)) Tj T* ET
 Q
 Q
 q
-1 0 0 1 32.92913 403.2972 cm
+1 0 0 1 51.35433 550.3087 cm
 q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (System Design:) Tj /F1 7.75 Tf ( Successfully programmed ) Tj /F3 7.75 Tf (microcontrollers) Tj /F1 7.75 Tf ( and integrated multiple hardware sensors, showcasing adaptability to new, complex) Tj T* 6.2 0 Td (technical ecosystems.) Tj T* ET
+BT 1 0 0 1 0 1.9 Tm 10.2 TL /F2 8.3 Tf 0 0 0 rg (Core Concepts:) Tj /F1 8.3 Tf ( DBMS, HTTP/HTTPS, TCP/IP, computer networks, responsive UI development) Tj T* ET
 Q
 Q
 q
-1 0 0 1 32.92913 389.7972 cm
+1 0 0 1 51.35433 534.8087 cm
 q
-.121569 .184314 .52549 rg
-BT 1 0 0 1 0 .7 Tm /F2 9.8 Tf 10.5 TL (KEY PROJECTS \(END-TO-END IMPLEMENTATION\)) Tj T* ET
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10 Tf 11.5 TL (EXPERIENCE) Tj T* ET
 Q
 Q
 q
-1 0 0 1 32.92913 387.5972 cm
+1 0 0 1 45.35433 532.3087 cm
 q
-.7 w
-1 J
-.121569 .184314 .52549 RG
-n 0 0 m 529.4173 0 l S
-Q
-Q
-q
-1 0 0 1 32.92913 364.0972 cm
-q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (E-Commerce Platform:) Tj /F1 7.75 Tf ( Architected and implemented a full-stack e-commerce solution using the ) Tj /F3 7.75 Tf (MERN stack) Tj /F1 7.75 Tf (. Built functional ) Tj /F3 7.75 Tf (RESTful endpoints) Tj /F1 7.75 Tf ( for) Tj T* 6.2 0 Td (user authentication, product cataloging, cart management, and order processing, establishing the core business platform.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 340.5972 cm
-q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Face Recognition Attendance System:) Tj /F1 7.75 Tf ( Built a ) Tj /F3 7.75 Tf (Python-based computer-vision application) Tj /F1 7.75 Tf ( for accurate facial recognition and registered-user) Tj T* 6.2 0 Td (identification. Connected recognition output to attendance data processing, automating employee attendance records.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 317.0972 cm
-q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Weather Forecasting Application:) Tj /F1 7.75 Tf ( Created a responsive ) Tj /F3 7.75 Tf (React.js) Tj /F1 7.75 Tf ( application consuming external ) Tj /F3 7.75 Tf (REST APIs) Tj /F1 7.75 Tf ( to deliver real-time weather data,) Tj T* 6.2 0 Td (supporting operational and delivery planning through forecast conditions.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 284.8472 cm
-q
-BT 1 0 0 1 8.5 18.5 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Ad Snap \227 AI-Powered Image Editing Platform:) Tj /F1 7.75 Tf ( Developed a ) Tj /F3 7.75 Tf (Python/Streamlit) Tj /F1 7.75 Tf ( web application for creating product-focused promotional creatives.) Tj T* 6.2 0 Td (Implemented background removal/replacement, image enhancement, shadow extraction, overlays, and image upscaling to support product advertising) Tj T* (and marketing content.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 271.3472 cm
-q
-BT 1 0 0 1 0 .7 Tm 10.5 TL /F2 9.8 Tf .121569 .184314 .52549 rg (LEADERSHIP, COMMUNICATION & CERTIFICATIONS) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 269.1472 cm
-q
-.7 w
-1 J
-.121569 .184314 .52549 RG
-n 0 0 m 529.4173 0 l S
-Q
-Q
-q
-1 0 0 1 32.92913 245.6472 cm
-q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Project Leadership & Customer Success Focus:) Tj /F1 7.75 Tf ( Actively served as an ) Tj /F3 7.75 Tf (NSS Volunteer, Social Media Coordinator, and Event Leader) Tj /F1 7.75 Tf (,) Tj T* 6.2 0 Td (demonstrating strong organizational, communication, and management skills highly relevant to client-facing and implementation roles.) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 230.8972 cm
-q
-BT 1 0 0 1 8.5 1 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Technical Certifications:) Tj /F1 7.75 Tf ( Achieved ) Tj /F3 7.75 Tf (Cisco Certifications) Tj /F1 7.75 Tf ( in Cyber Security, IT Development, Networking, and Operating Systems.) Tj T* 6.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 32.92913 207.3972 cm
-q
-BT 1 0 0 1 8.5 9.75 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Event Coordination:) Tj /F1 7.75 Tf ( Awarded the ) Tj /F3 7.75 Tf (QCFI Certificate of Appreciation) Tj /F1 7.75 Tf ( for significant contributions to the success of the ) Tj /F3 7.75 Tf (16th Chapter Convention on) Tj T* 6.2 0 Td (Quality Concepts) Tj /F1 7.75 Tf ( \(QCFI Bhilai Chapter, Oct 2025\).) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 192.6472 cm
-q
-BT 1 0 0 1 8.5 1 Tm -6.2 0 Td 8.75 TL /F1 7.75 Tf 0 0 0 rg (\177 ) Tj /F3 7.75 Tf (Continuous Learning:) Tj /F1 7.75 Tf ( Completed specialized workshops in ) Tj /F3 7.75 Tf (AI, ChatGPT, and Prompt Engineering.) Tj T* 6.2 0 Td ET
-Q
-Q
-q
-1 0 0 1 32.92913 179.1472 cm
-q
-.121569 .184314 .52549 rg
-BT 1 0 0 1 0 .7 Tm /F2 9.8 Tf 10.5 TL (EDUCATION) Tj T* ET
-Q
-Q
-q
-1 0 0 1 32.92913 176.9472 cm
-q
-.7 w
-1 J
-.121569 .184314 .52549 RG
-n 0 0 m 529.4173 0 l S
-Q
-Q
-q
-1 0 0 1 43.93701 166.1972 cm
-q
+.090196 .211765 .364706 rg
+n 0 .5 504.5669 -0.5 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
-q
-1 0 0 1 0 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F3 7.75 Tf 8.75 TL (Shri Shankaracharya Technical Campus) Tj T* ET
-Q
-Q
-q
-1 0 0 1 388.3465 0 cm
-q
-0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F3 7.75 Tf 8.75 TL (Bhilai, CG) Tj T* ET
-Q
-Q
+BT 1 0 0 1 6 5 Tm  T* ET
 q
 Q
 Q
 Q
 q
-1 0 0 1 32.92913 151.4472 cm
+1 0 0 1 51.35433 530.8087 cm
+Q
+q
+1 0 0 1 51.35433 518.3087 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F3 7.75 Tf 8.75 TL (B.Tech. in Computer Science and Engineering) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2 8.7 Tf 10.5 TL (Full-Stack Web Developer Intern | Y-Hills | Oct 2024 \226 Jan 2025) Tj T* ET
 Q
 Q
 q
-1 0 0 1 43.93701 141.6972 cm
+1 0 0 1 51.35433 492.7087 cm
 q
+0 0 0 rg
+BT 1 0 0 1 10 11.5 Tm /F1 8.1 Tf 9.8 TL -7 0 Td (\177 Developed responsive full-stack applications using React.js, Node.js, Express.js, and MySQL, connecting frontend, backend, and) Tj T* 7 0 Td (database layers.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 476.9087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 1.7 Tm /F1 8.1 Tf 9.8 TL -7 0 Td (\177 Designed, documented, and integrated RESTful APIs; configured data storage and tested application workflows using Postman.) Tj T* 7 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 461.1087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 1.7 Tm /F1 8.1 Tf 9.8 TL -7 0 Td (\177 Collaborated with an agile team and used Git-based version control to deliver software features.) Tj T* 7 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 448.6087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.7 Tf 10.5 TL (Summer Trainee \226 Cloud Computing \(Microsoft Azure\) | KodeZen Technologies | Jun 2025 \226 Jul 2025) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 423.0087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 11.5 Tm /F1 8.1 Tf 9.8 TL -7 0 Td (\177 Worked on cloud-computing concepts using Microsoft Azure, focusing on cloud-backed application components and structured data) Tj T* 7 0 Td (storage.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 407.2087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 1.7 Tm /F1 8.1 Tf 9.8 TL -7 0 Td (\177 Explored efficient data retrieval, application availability, and secure data-management concepts in a cloud environment.) Tj T* 7 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 391.7087 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10 Tf 11.5 TL (PROJECTS) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.35433 389.2087 cm
+q
+.090196 .211765 .364706 rg
+n 0 .5 504.5669 -0.5 re f*
 0 0 0 rg
 BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
 q
-1 0 0 1 0 0 cm
+Q
+Q
 Q
 q
-1 0 0 1 388.3465 0 cm
+1 0 0 1 51.35433 387.7087 cm
+Q
+q
+1 0 0 1 51.35433 375.2087 cm
 q
 0 0 0 rg
-BT 1 0 0 1 0 1 Tm /F1 7.75 Tf 8.75 TL (Aug 2023 \227 Present) Tj T* ET
+BT 1 0 0 1 0 1.8 Tm /F2 8.7 Tf 10.5 TL (E-Commerce Platform) Tj T* ET
 Q
 Q
 q
+1 0 0 1 51.35433 349.6087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 11.5 Tm /F1 8.1 Tf 9.8 TL -7 0 Td (\177 Built a MERN-stack application with REST endpoints for user authentication, product catalog management, shopping cart operations,) Tj T* 7 0 Td (and order processing.) Tj T* ET
 Q
+Q
+q
+1 0 0 1 51.35433 337.1087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.7 Tf 10.5 TL (NASA Mission Control \226 Kepler Data Platform) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 311.5087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 11.5 Tm /F1 8.1 Tf 9.8 TL -7 0 Td (\177 Developed a React.js and Node.js/Express platform for Kepler planet data and launch-management views, with REST APIs and) Tj T* 7 0 Td (MongoDB integration.) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 299.0087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.7 Tf 10.5 TL (Weather Forecasting Application) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 283.2087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 1.7 Tm /F1 8.1 Tf 9.8 TL -7 0 Td (\177 Created a responsive React.js application consuming external REST APIs to display real-time weather data.) Tj T* 7 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 270.7087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.7 Tf 10.5 TL (Personal Portfolio) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 254.9087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 1.7 Tm /F1 8.1 Tf 9.8 TL -7 0 Td (\177 Developed and deployed a GitHub-hosted portfolio presenting projects, technical skills, and interactive UI components.) Tj T* 7 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 242.4087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.8 Tm /F2 8.7 Tf 10.5 TL (OneBanc Dashboard UI/UX Design) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 226.6087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 10 1.7 Tm /F1 8.1 Tf 9.8 TL -7 0 Td (\177 Designed a Figma dashboard interface emphasizing visual hierarchy, intuitive navigation, and user-centered interactions.) Tj T* 7 0 Td ET
+Q
+Q
+q
+1 0 0 1 51.35433 211.1087 cm
+q
+.090196 .211765 .364706 rg
+BT 1 0 0 1 0 1.5 Tm /F2 10 Tf 11.5 TL (EDUCATION) Tj T* ET
+Q
+Q
+q
+1 0 0 1 45.35433 208.6087 cm
+q
+.090196 .211765 .364706 rg
+n 0 .5 504.5669 -0.5 re f*
+0 0 0 rg
+BT /F1 10 Tf 12 TL ET
+BT 1 0 0 1 6 5 Tm  T* ET
+q
+Q
+Q
+Q
+q
+1 0 0 1 51.35433 207.1087 cm
+Q
+q
+1 0 0 1 51.35433 190.9087 cm
+q
+BT 1 0 0 1 0 1.9 Tm 10.2 TL /F2 8.3 Tf 0 0 0 rg (B.Tech. in Computer Science and Engineering) Tj /F1 8.3 Tf ( | Shri Shankaracharya Technical Campus, Bhilai, Chhattisgarh) Tj T* ET
+Q
+Q
+q
+1 0 0 1 51.35433 174.7087 cm
+q
+0 0 0 rg
+BT 1 0 0 1 0 1.9 Tm /F1 8.3 Tf 10.2 TL (Aug 2023 \226 Present) Tj T* ET
 Q
 Q
  
@@ -430,14 +389,3175 @@ BT
 /F1-0 12 Tf
 14.4 TL
 ET
+1 1 1 rg
+n
+44 106.8898 510 445 re
+f*
+0.12 0.25 0.36 rg
 BT
-/F1-0 9 Tf
-10.8 TL
+/F2-0 9.25 Tf
+11.1 TL
+ET
+BT
+1 0 0 1 51.35 535.4898 Tm
+(EXPERIENCE) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35 530.4898 m
+544 530.4898 l
+S
+0 0 0 rg
+BT
+/F2-0 8.05 Tf
+9.66 TL
+ET
+BT
+1 0 0 1 51.35 518.3398 Tm
+(Full\055Stack Web Developer Intern \174 Y\055Hills \174 Oct 2024 \226 Jan 2025) Tj
+T*
 ET
 0 0 0 rg
 BT
-1 0 0 1 427.5 776.1398 Tm
-(\174 github\056com\057harishrarma) Tj
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 502.4898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 502.4898 Tm
+(Developed responsive full\055stack applications using React\056js\054 Node\056js\054 Express\056js\054 and MySQL\054 connecting frontend\054 backend\054 and) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 66.35 492.6898 Tm
+(database layers\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 476.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 476.8898 Tm
+(Designed\054 documented\054 and integrated RESTful APIs\073 configured data storage and tested application workflows using Postman\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 461.0898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 461.0898 Tm
+(Collaborated with an agile team and used Git\055based version control to deliver software features\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-0 7.9 Tf
+9.48 TL
+ET
+BT
+1 0 0 1 51.35 444.8398 Tm
+(Summer Trainee \226 Cloud Computing \050Microsoft Azure\051 \174 KodeZen Technologies \174 Jun 2025 \226 Jul 2025) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 429.0898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 429.0898 Tm
+(Worked on cloud\055computing concepts using Microsoft Azure\054 focusing on cloud\055backed application components and structured data) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 66.35 419.2898 Tm
+(storage\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 403.4898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 403.4898 Tm
+(Explored efficient data retrieval\054 application availability\054 and secure data\055management concepts in a cloud environment\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-0 8 Tf
+9.6 TL
+ET
+BT
+1 0 0 1 51.35 387.1398 Tm
+(Summer Trainee \226 Robotics \174 SSIMPT\054 Raipur) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 371.3898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 371.3898 Tm
+(Gained hands\055on exposure to robotics fundamentals\054 sensors\054 actuators\054 microcontrollers\054 and basic automation workflows\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 355.5898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 355.5898 Tm
+(Built and tested basic robotic systems\054 focusing on programming logic\054 circuit connections\054 troubleshooting\054 and safe operation\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-0 9.25 Tf
+11.1 TL
+ET
+BT
+1 0 0 1 51.35 338.3898 Tm
+(PROJECTS) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35 333.3898 m
+544 333.3898 l
+S
+0 0 0 rg
+BT
+/F2-0 8.05 Tf
+9.66 TL
+ET
+BT
+1 0 0 1 51.35 321.2398 Tm
+(Personal Portfolio) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 305.4898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 305.4898 Tm
+(Developed and deployed a GitHub\055hosted portfolio presenting projects\054 technical skills\054 and interactive UI components\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-0 8.05 Tf
+9.66 TL
+ET
+BT
+1 0 0 1 51.35 290.1398 Tm
+(E\055Commerce Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 274.3898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 274.3898 Tm
+(Built a MERN\055stack application with REST endpoints for user authentication\054 product catalog management\054 shopping cart operations\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 66.35 264.5898 Tm
+(and order processing\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-0 7.9 Tf
+9.48 TL
+ET
+BT
+1 0 0 1 51.35 250.8398 Tm
+(NASA Mission Control \226 Kepler Data Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 235.0898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 235.0898 Tm
+(Developed a React\056js and Node\056js\057Express platform for Kepler planet data and launch\055management views\054 with REST APIs and) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 66.35 225.2898 Tm
+(MongoDB integration\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-0 8.05 Tf
+9.66 TL
+ET
+BT
+1 0 0 1 51.35 211.5398 Tm
+(Weather Forecasting Application) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 195.7898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 195.7898 Tm
+(Created a responsive React\056js application consuming external REST APIs to display real\055time weather data\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-0 7.9 Tf
+9.48 TL
+ET
+BT
+1 0 0 1 51.35 180.4398 Tm
+(OneBanc Dashboard UI\057UX Design) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-0 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35 164.6898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45 164.6898 Tm
+(Designed a Figma dashboard interface emphasizing visual hierarchy\054 intuitive navigation\054 and user\055centered interactions\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-0 9.25 Tf
+11.1 TL
+ET
+BT
+1 0 0 1 51.35 147.3898 Tm
+(EDUCATION) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35 142.3898 m
+544 142.3898 l
+S
+0 0 0 rg
+BT
+/F2-0 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35 133.8898 Tm
+(B\056Tech\056 in Computer Science and Engineering) Tj
+T*
+ET
+BT
+/F1-0 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 235.85 133.8898 Tm
+(\174 Shri Shankaracharya Technical Campus\054 Bhilai\054 Chhattisgarh) Tj
+T*
+ET
+BT
+/F1-0 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35 117.6898 Tm
+(Aug 2023 \226 Present) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-1 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+78 746.8898 440 23 re
+f*
+0 0 0 rg
+BT
+/F1-1 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 125.9751 762.0898 Tm
+(\05391 9103745223 \174 harimagotra909\100gmail\056com \174 https\072\057\057www\056linkedin\056com\057in\057hariom \174 https\072\057\057leetcode\056com\057u\057sRADoEZxtu\057) Tj
+T*
+ET
+BT
+/F1-1 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 190.0593 752.8898 Tm
+(https\072\057\057github\056com\057harishrarma \174 https\072\057\057github\056com\057harishrarma\057PORTFOLIO) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-2 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+45 545.8898 510 105 re
+f*
+0 0 0 rg
+BT
+/F2-1 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 641.6898 Tm
+(Programming\072) Tj
+T*
+ET
+BT
+/F1-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 106.2761 641.6898 Tm
+(C\053\053\054 Java\054 Python\054 JavaScript \050ES6\053\051\054 HTML5\054 CSS3) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-1 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 625.4898 Tm
+(Software Engineering\072) Tj
+T*
+ET
+BT
+/F1-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 135.3744 625.4898 Tm
+(Object\055Oriented Programming \050OOP\051\054 Data Structures and Algorithms\054 RESTful APIs\054 CRUD operations\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-2 7.7 Tf
+9.24 TL
+ET
+BT
+/F1-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 615.2898 Tm
+(application testing\054 System Design) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-1 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 599.0898 Tm
+(Frameworks \046 Libraries\072) Tj
+T*
+ET
+BT
+/F1-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 143.9445 599.0898 Tm
+(React\056js\054 Node\056js\054 Express\056js\054 Bootstrap\054 Tailwind CSS) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-1 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 582.8898 Tm
+(Databases\072) Tj
+T*
+ET
+BT
+/F1-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 94.73383 582.8898 Tm
+(MySQL\054 SQLite\054 MongoDB\073 database design and data retrieval) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-1 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 566.6898 Tm
+(Tools \046 Platforms\072) Tj
+T*
+ET
+BT
+/F1-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 122.1073 566.6898 Tm
+(Git\054 GitHub\054 Postman\054 Visual Studio Code\054 Microsoft Azure \050cloud computing\051\054 Figma) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-1 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 550.4898 Tm
+(Core Concepts\072) Tj
+T*
+ET
+BT
+/F1-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 110.9808 550.4898 Tm
+(DBMS\054 HTTP\057HTTPS\054 TCP\057IP\054 computer networks\054 responsive UI\057UX design\054 microcontrollers) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-3 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+45 545.8898 510 105 re
+f*
+0 0 0 rg
+BT
+/F2-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 641.6898 Tm
+(Programming\072) Tj
+T*
+ET
+BT
+/F1-3 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 106.2761 641.6898 Tm
+(C\053\053\054 Java\054 Python\054 JavaScript \050ES6\053\051\054 TypeScript\054 HTML5\054 CSS3) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 625.4898 Tm
+(Software Engineering\072) Tj
+T*
+ET
+BT
+/F1-3 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 135.3744 625.4898 Tm
+(Object\055Oriented Programming \050OOP\051\054 Data Structures and Algorithms \050Sliding Window\051\054 RESTful APIs\054 CRUD operations\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-3 7.7 Tf
+9.24 TL
+ET
+BT
+/F1-3 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 615.2898 Tm
+(application testing\054 System Design) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 599.0898 Tm
+(Frameworks \046 Libraries\072) Tj
+T*
+ET
+BT
+/F1-3 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 143.9445 599.0898 Tm
+(React\056js\054 Node\056js\054 Express\056js\054 Tailwind CSS\054 Streamlit) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 582.8898 Tm
+(Databases\072) Tj
+T*
+ET
+BT
+/F1-3 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 94.73383 582.8898 Tm
+(MySQL\054 SQLite\054 MongoDB\073 database design and data retrieval) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 566.6898 Tm
+(Tools \046 Platforms\072) Tj
+T*
+ET
+BT
+/F1-3 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 122.1073 566.6898 Tm
+(Git\054 GitHub\054 Postman\054 Visual Studio Code\054 Microsoft Azure \050cloud computing\051\054 Docker\054 Figma) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-2 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 550.4898 Tm
+(Core Concepts\072) Tj
+T*
+ET
+BT
+/F1-3 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 110.9808 550.4898 Tm
+(Operating Systems\054 DBMS\054 HTTP\057HTTPS\054 TCP\057IP\054 computer networks\054 responsive UI\057UX design\054 microcontrollers) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-4 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+45 86.8898 510 90 re
+f*
+0.12 0.25 0.36 rg
+BT
+/F2-3 9.25 Tf
+11.1 TL
+ET
+BT
+1 0 0 1 51.35433 147.3898 Tm
+(ACHIEVEMENTS) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 142.3898 m
+544 142.3898 l
+S
+0 0 0 rg
+BT
+/F1-4 7.5 Tf
+9 TL
+ET
+BT
+1 0 0 1 54.35433 133.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 133.8898 Tm
+(140\053 LeetCode problems solved\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-3 9.25 Tf
+11.1 TL
+ET
+BT
+1 0 0 1 51.35433 111.8898 Tm
+(EDUCATION) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 106.8898 m
+544 106.8898 l
+S
+0 0 0 rg
+BT
+/F2-3 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 98.3898 Tm
+(B\056Tech\056 in Computer Science and Engineering) Tj
+T*
+ET
+BT
+/F1-4 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 235.85 98.3898 Tm
+(\174 Shri Shankaracharya Technical Campus\054 Bhilai\054 Chhattisgarh) Tj
+T*
+ET
+BT
+1 0 0 1 51.35433 82.1898 Tm
+(Aug 2023 \226 Present) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-5 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+45 673.8898 510 58 re
+f*
+0 0 0 rg
+BT
+/F1-5 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 725.8898 Tm
+(Computer Science and Engineering undergraduate with hands\055on experience in full\055stack web development\054 system integration\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 715.6898 Tm
+(RESTful APIs\054 SQL\057NoSQL databases\054 and cloud\055computing concepts\056 Skilled in building practical software solutions using the MERN) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 705.4898 Tm
+(stack\054 with familiarity in System Design Level 2 concepts\054 scalable components\054 service interactions\054 and basic architecture planning\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 695.2898 Tm
+(Strong in problem\055solving\054 technical troubleshooting\054 and end\055to\055end project implementation\054 seeking an entry\055level software) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 685.0898 Tm
+(engineering opportunity focused on reliable\054 maintainable software and collaborative development\056) Tj
+T*
+ET
+1 1 1 rg
+n
+45 545.8898 510 105 re
+f*
+0 0 0 rg
+BT
+/F2-4 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 641.8698 Tm
+(Programming\072) Tj
+T*
+ET
+BT
+/F1-5 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 105.251 641.8698 Tm
+(C\053\053\054 Java\054 Python\054 JavaScript \050ES6\053\051\054 TypeScript\054 HTML5\054 CSS3) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 625.6698 Tm
+(Software Engineering\072) Tj
+T*
+ET
+BT
+/F1-5 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 133.7825 625.6698 Tm
+(Object\055Oriented Programming \050OOP\051\054 Data Structures and Algorithms \050Sliding Window\051\054 RESTful APIs\054 CRUD operations\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.55 Tf
+9.06 TL
+ET
+BT
+/F1-5 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 615.4698 Tm
+(application testing\054 System Design Level 2) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 599.2698 Tm
+(Frameworks \046 Libraries\072) Tj
+T*
+ET
+BT
+/F1-5 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 142.1856 599.2698 Tm
+(React\056js\054 Node\056js\054 Express\056js\054 Tailwind CSS\054 Streamlit\054 RESTful APIs) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 583.0698 Tm
+(Databases\072) Tj
+T*
+ET
+BT
+/F1-5 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 93.93358 583.0698 Tm
+(MySQL\054 SQLite\054 MongoDB\054 SQL\073 database design\054 CRUD operations\054 and data retrieval) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 566.8698 Tm
+(Networking \046 Tools\072) Tj
+T*
+ET
+BT
+/F1-5 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 127.063 566.8698 Tm
+(Computer Networks\054 TCP\057IP\054 DNS\054 HTTP\057HTTPS\054 network troubleshooting\054 Git\054 GitHub\054 Postman\054 Docker\054 Figma) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 550.6698 Tm
+(AI\057ML \046 Core\072) Tj
+T*
+ET
+BT
+/F1-5 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 103.5674 550.6698 Tm
+(NumPy\054 Pandas\054 OpenCV\054 ChatGPT\054 prompt engineering\054 UI\057UX\054 operating systems\054 microcontrollers) Tj
+T*
+ET
+1 1 1 rg
+n
+45 21.8898 510 525 re
+f*
+0.12 0.25 0.36 rg
+BT
+/F2-4 9.25 Tf
+11.1 TL
+ET
+BT
+1 0 0 1 51.35433 535.4898 Tm
+(EXPERIENCE) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 530.4898 m
+544 530.4898 l
+S
+0 0 0 rg
+BT
+/F2-4 7.85 Tf
+9.42 TL
+ET
+BT
+1 0 0 1 51.35433 518.7898 Tm
+(Full\055Stack Web Developer Intern \174 Y\055Hills \174 Oct 2024 \226 Jan 2025) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 502.7398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 502.7398 Tm
+(Developed feature\055rich full\055stack applications using React\056js\054 Node\056js\054 Express\056js\054 and MySQL\054 connecting frontend\054 backend\054 and) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 66.35 492.9398 Tm
+(database layers\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 477.1398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 477.1398 Tm
+(Designed and integrated RESTful APIs\054 configured MongoDB storage solutions\054 and tested application workflows using Postman\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 461.3398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 461.3398 Tm
+(Collaborated in Git\055based code repositories and delivered solutions in an agile environment\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 445.2898 Tm
+(Summer Trainee \226 Cloud Computing \050Microsoft Azure\051 \174 KodeZen Technologies \174 Jun 2025 \226 Jul 2025) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 429.3398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 429.3398 Tm
+(Built cloud\055backed application components focused on scalable data storage\054 efficient retrieval\054 availability\054 and secure data) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 66.35 419.5398 Tm
+(management workflows\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 403.7398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 403.7398 Tm
+(Explored cloud application development concepts and structured data workflows in a cloud environment\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.85 Tf
+9.42 TL
+ET
+BT
+1 0 0 1 51.35433 387.5898 Tm
+(Summer Trainee \226 Robotics \174 SSIMPT\054 Raipur) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 371.6398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 371.6398 Tm
+(Engineered basic drone and robot prototypes using LDR sensors and embedded\055systems coding\073 achieved an A\053 grade\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 355.8398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 355.8398 Tm
+(Programmed microcontrollers and integrated multiple hardware sensors while testing robotic systems and troubleshooting circuits\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-4 9.25 Tf
+11.1 TL
+ET
+BT
+1 0 0 1 51.35433 338.3898 Tm
+(PROJECTS) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 333.3898 m
+544 333.3898 l
+S
+0 0 0 rg
+BT
+/F2-4 7.85 Tf
+9.42 TL
+ET
+BT
+1 0 0 1 51.35433 321.6898 Tm
+(Personal Portfolio) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 307.7398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 307.7398 Tm
+(Developed and deployed a GitHub\055hosted portfolio showcasing projects\054 technical skills\054 and development work\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.65 Tf
+9.18 TL
+ET
+BT
+1 0 0 1 51.35433 293.5898 Tm
+(NASA Mission Control \226 Kepler Data Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 279.7398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 279.7398 Tm
+(Built a React\056js and Node\056js\057Express platform for Kepler planet data and launch\055management views with REST APIs\054 MongoDB\057local\055) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 66.35 269.9398 Tm
+(storage modes\054 and Docker support\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.85 Tf
+9.42 TL
+ET
+BT
+1 0 0 1 51.35433 255.7898 Tm
+(E\055Commerce Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 241.9398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 241.9398 Tm
+(Architected and implemented a MERN\055stack solution with RESTful endpoints for authentication\054 product catalog\054 cart management\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 66.35 232.1398 Tm
+(and order processing\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 217.9898 Tm
+(Face Recognition Attendance System) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 204.1398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 204.1398 Tm
+(Built a Python computer\055vision application for facial recognition and registered\055user identification\054 automating attendance processing\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 189.9898 Tm
+(OneBanc Dashboard UI\057UX Design) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 176.1398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 176.1398 Tm
+(Designed a Figma dashboard focused on clear layout\054 navigation\054 visual hierarchy\054 wireframing\054 and user\055centered interaction design\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.7 Tf
+9.24 TL
+ET
+BT
+1 0 0 1 51.35433 161.9898 Tm
+(Weather Forecasting Application) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 148.1398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 148.1398 Tm
+(Created a responsive React\056js application consuming external REST APIs to deliver real\055time weather data for decision support\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-4 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 133.9898 Tm
+(Ad Snap \226 AI\055Powered Image Editing Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 120.1398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 120.1398 Tm
+(Developed a Python\057Streamlit application for promotional creatives\054 including product replacement\054 image enhancement\054 shadow) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 66.35 110.3398 Tm
+(extraction\054 and image upscaling\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-4 9.25 Tf
+11.1 TL
+ET
+BT
+1 0 0 1 51.35433 95.8898 Tm
+(ACHIEVEMENTS) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 90.8898 m
+544 90.8898 l
+S
+0 0 0 rg
+BT
+/F1-5 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 54.35433 75.1398 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 75.1398 Tm
+(140\053 LeetCode problems solved\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-4 9.25 Tf
+11.1 TL
+ET
+BT
+1 0 0 1 51.35433 62.3898 Tm
+(EDUCATION) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 57.3898 m
+544 57.3898 l
+S
+0 0 0 rg
+BT
+/F2-4 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 49.3898 Tm
+(B\056Tech\056 in Computer Science and Engineering) Tj
+T*
+ET
+BT
+/F1-5 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 235.85 49.3898 Tm
+(\174 Shri Shankaracharya Technical Campus\054 Bhilai\054 Chhattisgarh) Tj
+T*
+ET
+BT
+1 0 0 1 51.35433 33.1898 Tm
+(Aug 2023 \226 Present) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-6 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+45 0 510 353.8898 re
+f*
+0.12 0.25 0.36 rg
+BT
+/F2-5 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 338.6898 Tm
+(PROJECTS) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 333.6898 m
+544 333.6898 l
+S
+0 0 0 rg
+BT
+/F2-5 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 322.4898 Tm
+(Personal Portfolio) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 309.3898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 309.3898 Tm
+(Developed and deployed a GitHub\055hosted portfolio showcasing projects\054 technical skills\054 and development work\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-5 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 296.4898 Tm
+(NASA Mission Control \226 Kepler Data Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 283.3898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 283.3898 Tm
+(Built a React\056js and Node\056js\057Express platform for Kepler planet data and launch\055management views with REST APIs\054 MongoDB\057local\055) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 274.0898 Tm
+(storage modes\054 and Docker support\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-5 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 261.6898 Tm
+(E\055Commerce Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 248.5898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 248.5898 Tm
+(Architected and implemented a MERN\055stack solution with RESTful endpoints for authentication\054 product catalog\054 cart management\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 239.2898 Tm
+(and order processing\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-5 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 226.8898 Tm
+(Face Recognition Attendance System) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 213.7898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 213.7898 Tm
+(Built a Python computer\055vision application for facial recognition and registered\055user identification\054 automating attendance processing\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-5 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 200.3898 Tm
+(OneBanc Dashboard UI\057UX Design) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 187.2898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 187.2898 Tm
+(Designed a Figma dashboard focused on clear layout\054 navigation\054 visual hierarchy\054 wireframing\054 and user\055centered interaction design\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-5 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 173.8898 Tm
+(Weather Forecasting Application) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 160.7898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 160.7898 Tm
+(Created a responsive React\056js application consuming external REST APIs to deliver real\055time weather data for decision support\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-5 7.35 Tf
+8.82 TL
+ET
+BT
+1 0 0 1 51.35433 147.3898 Tm
+(Ad Snap \226 AI\055Powered Image Editing Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 134.2898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 134.2898 Tm
+(Developed a Python\057Streamlit application for promotional creatives\054 including product replacement\054 image enhancement\054 shadow) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 124.9898 Tm
+(extraction\054 and image upscaling\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-5 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 116.1898 Tm
+(CERTIFICATIONS \046 LEARNING) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 111.1898 m
+544 111.1898 l
+S
+0 0 0 rg
+BT
+/F1-6 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 54.35433 99.6898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 99.6898 Tm
+(Cisco Certifications\072 Cyber Security\054 IT Development\054 Networking \046 Operating Systems\073 Ben10 Workshop\072 AI\054 ChatGPT \046 Prompt Engineering\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-6 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 54.35433 89.6898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 89.6898 Tm
+(NSS Volunteer\054 Social Media Coordinator \046 Event Leader\073 QCFI Certificate of Appreciation\054 Bhilai Chapter \050Oct 2025\051\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-5 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 75.6898 Tm
+(ACHIEVEMENTS) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 70.6898 m
+544 70.6898 l
+S
+0 0 0 rg
+BT
+/F1-6 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 54.35433 59.1898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 59.1898 Tm
+(140\053 LeetCode problems solved\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-5 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 47.6898 Tm
+(EDUCATION) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 42.6898 m
+544 42.6898 l
+S
+0 0 0 rg
+BT
+/F2-5 7.15 Tf
+8.58 TL
+ET
+BT
+1 0 0 1 51.35433 37.8898 Tm
+(B\056Tech\056 in Computer Science and Engineering) Tj
+T*
+ET
+BT
+/F1-6 7.15 Tf
+8.58 TL
+ET
+BT
+1 0 0 1 235.85 37.8898 Tm
+(\174 Shri Shankaracharya Technical Campus\054 Bhilai\054 Chhattisgarh \174 Aug 2023 \226 Present) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-7 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+45 0 510 656.8898 re
+f*
+0 0 0 rg
+BT
+/F2-6 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 642.3898 Tm
+(Programming\072) Tj
+T*
+ET
+BT
+/F1-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 102.8591 642.3898 Tm
+(C\053\053\054 Java\054 Python\054 JavaScript \050ES6\053\051\054 TypeScript\054 HTML5\054 CSS3) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 630.8898 Tm
+(Software Engineering\072) Tj
+T*
+ET
+BT
+/F1-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 130.0679 630.8898 Tm
+(Object\055Oriented Programming \050OOP\051\054 Data Structures and Algorithms \050Sliding Window\051\054 RESTful APIs\054 CRUD operations\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7.2 Tf
+8.64 TL
+ET
+BT
+/F1-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 620.8898 Tm
+(application testing\054 System Design Level 2) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 609.3898 Tm
+(Frameworks \046 Libraries\072) Tj
+T*
+ET
+BT
+/F1-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 138.0815 609.3898 Tm
+(React\056js\054 Node\056js\054 Express\056js\054 Tailwind CSS\054 Streamlit\054 RESTful APIs) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 597.8898 Tm
+(Databases\072) Tj
+T*
+ET
+BT
+/F1-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 92.06633 597.8898 Tm
+(MySQL\054 SQLite\054 MongoDB\054 SQL\073 database design\054 CRUD operations\054 and data retrieval) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 586.3898 Tm
+(Networking \046 Tools\072) Tj
+T*
+ET
+BT
+/F1-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 123.6599 586.3898 Tm
+(Computer Networks\054 TCP\057IP\054 DNS\054 HTTP\057HTTPS\054 troubleshooting\054 Git\054 GitHub\054 Postman\054 Docker\054 Figma) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 574.8898 Tm
+(AI\057ML \046 Core\072) Tj
+T*
+ET
+BT
+/F1-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 101.2535 574.8898 Tm
+(NumPy\054 Pandas\054 OpenCV\054 ChatGPT\054 prompt engineering\054 UI\057UX\054 operating systems\054 microcontrollers) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-6 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 559.1898 Tm
+(EXPERIENCE) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 554.1898 m
+544 554.1898 l
+S
+0 0 0 rg
+BT
+/F2-6 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 542.7898 Tm
+(Full\055Stack Web Developer Intern \174 Y\055Hills \174 Oct 2024 \226 Jan 2025) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 526.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 526.8898 Tm
+(Developed feature\055rich full\055stack applications using React\056js\054 Node\056js\054 Express\056js\054 and MySQL\054 connecting frontend\054 backend\054 and) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 517.5898 Tm
+(database layers\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 502.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 502.8898 Tm
+(Designed and integrated RESTful APIs\054 configured MongoDB storage solutions\054 and tested application workflows using Postman\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 488.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 488.8898 Tm
+(Collaborated in Git\055based code repositories and delivered solutions in an agile environment\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 474.7898 Tm
+(Summer Trainee \226 Cloud Computing \050Microsoft Azure\051 \174 KodeZen Technologies \174 Jun 2025 \226 Jul 2025) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 458.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 458.8898 Tm
+(Built cloud\055backed application components focused on scalable data storage\054 efficient retrieval\054 availability\054 and secure data) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 449.5898 Tm
+(management workflows\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 434.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 434.8898 Tm
+(Explored cloud application development concepts and structured data workflows in a cloud environment\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 420.7898 Tm
+(Summer Trainee \226 Robotics \174 SSIMPT\054 Raipur) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 404.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 404.8898 Tm
+(Engineered basic drone and robot prototypes using LDR sensors and embedded\055systems coding\073 achieved an A\053 grade\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 390.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 390.8898 Tm
+(Programmed microcontrollers and integrated multiple hardware sensors while testing robotic systems and troubleshooting circuits\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-6 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 374.1898 Tm
+(PROJECTS) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 369.1898 m
+544 369.1898 l
+S
+0 0 0 rg
+BT
+/F2-6 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 357.7898 Tm
+(Personal Portfolio) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 344.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 344.8898 Tm
+(Developed and deployed a GitHub\055hosted portfolio showcasing projects\054 technical skills\054 and development work\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 330.7898 Tm
+(NASA Mission Control \226 Kepler Data Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 317.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 317.8898 Tm
+(Built a React\056js and Node\056js\057Express platform for Kepler planet data and launch\055management views with REST APIs\054 MongoDB\057local\055) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 308.5898 Tm
+(storage modes\054 and Docker support\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 295.7898 Tm
+(E\055Commerce Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 282.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 282.8898 Tm
+(Architected and implemented a MERN\055stack solution with RESTful endpoints for authentication\054 product catalog\054 cart management\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 273.5898 Tm
+(and order processing\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 260.7898 Tm
+(Face Recognition Attendance System) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 247.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 247.8898 Tm
+(Built a Python computer\055vision application for facial recognition and registered\055user identification\054 automating attendance processing\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 234.7898 Tm
+(OneBanc Dashboard UI\057UX Design) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 221.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 221.8898 Tm
+(Designed a Figma dashboard focused on clear layout\054 navigation\054 visual hierarchy\054 wireframing\054 and user\055centered interaction design\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 208.7898 Tm
+(Weather Forecasting Application) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 195.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 195.8898 Tm
+(Created a responsive React\056js application consuming external REST APIs to deliver real\055time weather data for decision support\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-6 7.35 Tf
+8.82 TL
+ET
+BT
+1 0 0 1 51.35433 182.7898 Tm
+(Ad Snap \226 AI\055Powered Image Editing Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 169.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 169.8898 Tm
+(Developed a Python\057Streamlit application for promotional creatives\054 including product replacement\054 image enhancement\054 shadow) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 160.5898 Tm
+(extraction\054 and image upscaling\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-6 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 148.1898 Tm
+(CERTIFICATIONS \046 LEARNING) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 143.1898 m
+544 143.1898 l
+S
+0 0 0 rg
+BT
+/F1-7 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 54.35433 131.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 131.8898 Tm
+(Cisco Certifications\072 Cyber Security\054 IT Development\054 Networking \046 Operating Systems\073 Ben10 Workshop\072 AI\054 ChatGPT \046 Prompt Engineering\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-7 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 54.35433 121.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 121.8898 Tm
+(NSS Volunteer\054 Social Media Coordinator \046 Event Leader\073 QCFI Certificate of Appreciation\054 Bhilai Chapter \050Oct 2025\051\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-6 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 107.1898 Tm
+(ACHIEVEMENTS) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 102.1898 m
+544 102.1898 l
+S
+0 0 0 rg
+BT
+/F1-7 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 54.35433 90.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 90.8898 Tm
+(140\053 LeetCode problems solved\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-6 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 79.1898 Tm
+(EDUCATION) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 74.1898 m
+544 74.1898 l
+S
+0 0 0 rg
+BT
+/F2-6 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 51.35433 68.8898 Tm
+(B\056Tech\056 in Computer Science and Engineering) Tj
+T*
+ET
+BT
+/F1-7 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 235.85 68.8898 Tm
+(\174 Shri Shankaracharya Technical Campus\054 Bhilai\054 Chhattisgarh) Tj
+T*
+ET
+BT
+1 0 0 1 51.35433 57.3898 Tm
+(Aug 2023 \226 Present) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-8 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+45 0 510 656.8898 re
+f*
+0 0 0 rg
+BT
+/F2-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 642.3898 Tm
+(Programming\072) Tj
+T*
+ET
+BT
+/F1-8 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 102.8591 642.3898 Tm
+(C\053\053\054 Java\054 Python\054 JavaScript \050ES6\053\051\054 TypeScript\054 HTML5\054 CSS3) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 630.8898 Tm
+(Software Engineering\072) Tj
+T*
+ET
+BT
+/F1-8 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 130.0679 630.8898 Tm
+(Object\055Oriented Programming \050OOP\051\054 Data Structures and Algorithms \050Sliding Window\051\054 RESTful APIs\054 CRUD operations\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7.2 Tf
+8.64 TL
+ET
+BT
+/F1-8 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 620.8898 Tm
+(application testing\054 System Design Level 2) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 609.3898 Tm
+(Frameworks \046 Libraries\072) Tj
+T*
+ET
+BT
+/F1-8 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 138.0815 609.3898 Tm
+(React\056js\054 Node\056js\054 Express\056js\054 Tailwind CSS\054 Streamlit\054 RESTful APIs) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 597.8898 Tm
+(Databases\072) Tj
+T*
+ET
+BT
+/F1-8 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 92.06633 597.8898 Tm
+(MySQL\054 SQLite\054 MongoDB\054 SQL\073 database design\054 CRUD operations\054 and data retrieval) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 586.3898 Tm
+(Networking \046 Tools\072) Tj
+T*
+ET
+BT
+/F1-8 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 123.6599 586.3898 Tm
+(Computer Networks\054 TCP\057IP\054 DNS\054 HTTP\057HTTPS\054 troubleshooting\054 Git\054 GitHub\054 Postman\054 Docker\054 Figma) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 51.35433 574.8898 Tm
+(AI\057ML \046 Core\072) Tj
+T*
+ET
+BT
+/F1-8 7.2 Tf
+8.64 TL
+ET
+BT
+1 0 0 1 101.2535 574.8898 Tm
+(NumPy\054 Pandas\054 OpenCV\054 ChatGPT\054 prompt engineering\054 UI\057UX\054 operating systems\054 microcontrollers) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-7 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 564.1898 Tm
+(PROFESSIONAL EXPERIENCE) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 559.1898 m
+544 559.1898 l
+S
+0 0 0 rg
+BT
+/F2-7 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 547.7898 Tm
+(Full\055Stack Web Developer Intern \174 Y\055Hills \174 Oct 2024 \226 Jan 2025) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 54.35433 532.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 532.8898 Tm
+(Developed feature\055rich full\055stack applications using React\056js\054 Node\056js\054 Express\056js\054 and MySQL\054 connecting frontend\054 backend\054 and) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 66.35 523.8898 Tm
+(database layers\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 54.35433 510.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 510.8898 Tm
+(Designed and integrated RESTful APIs\054 configured MongoDB storage solutions\054 and tested application workflows using Postman\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 54.35433 498.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 498.8898 Tm
+(Collaborated in Git\055based code repositories and delivered solutions in an agile environment\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 486.7898 Tm
+(Summer Trainee \226 Cloud Computing \050Microsoft Azure\051 \174 KodeZen Technologies \174 Jun 2025 \226 Jul 2025) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 54.35433 471.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 471.8898 Tm
+(Built cloud\055backed application components focused on scalable data storage\054 efficient retrieval\054 availability\054 and secure data) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 66.35 462.8898 Tm
+(management workflows\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 54.35433 449.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 449.8898 Tm
+(Explored cloud application development concepts and structured data workflows in a cloud environment\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 435.7898 Tm
+(Summer Trainee \226 Robotics \174 SSIMPT\054 Raipur) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 54.35433 420.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 420.8898 Tm
+(Engineered basic drone and robot prototypes using LDR sensors and embedded\055systems coding\073 achieved an A\053 grade\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 6.8 Tf
+8.16 TL
+ET
+BT
+1 0 0 1 54.35433 408.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 408.8898 Tm
+(Programmed microcontrollers and integrated multiple hardware sensors while testing robotic systems and troubleshooting circuits\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-7 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 392.1898 Tm
+(PROJECTS) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 387.1898 m
+544 387.1898 l
+S
+0 0 0 rg
+BT
+/F2-7 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 375.7898 Tm
+(Personal Portfolio) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 362.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 362.8898 Tm
+(Developed and deployed a GitHub\055hosted portfolio showcasing projects\054 technical skills\054 and development work\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 348.7898 Tm
+(NASA Mission Control \226 Kepler Data Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 335.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 335.8898 Tm
+(Built a React\056js and Node\056js\057Express platform for Kepler planet data and launch\055management views with REST APIs\054 MongoDB\057local\055) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 326.5898 Tm
+(storage modes\054 and Docker support\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.55 Tf
+9.06 TL
+ET
+BT
+1 0 0 1 51.35433 313.7898 Tm
+(E\055Commerce Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 300.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 300.8898 Tm
+(Architected and implemented a MERN\055stack solution with RESTful endpoints for authentication\054 product catalog\054 cart management\054) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 291.5898 Tm
+(and order processing\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 278.7898 Tm
+(Face Recognition Attendance System) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 265.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 265.8898 Tm
+(Built a Python computer\055vision application for facial recognition and registered\055user identification\054 automating attendance processing\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 252.7898 Tm
+(OneBanc Dashboard UI\057UX Design) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 239.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 239.8898 Tm
+(Designed a Figma dashboard focused on clear layout\054 navigation\054 visual hierarchy\054 wireframing\054 and user\055centered interaction design\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.45 Tf
+8.94 TL
+ET
+BT
+1 0 0 1 51.35433 226.7898 Tm
+(Weather Forecasting Application) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 213.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 213.8898 Tm
+(Created a responsive React\056js application consuming external REST APIs to deliver real\055time weather data for decision support\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F2-7 7.35 Tf
+8.82 TL
+ET
+BT
+1 0 0 1 51.35433 200.7898 Tm
+(Ad Snap \226 AI\055Powered Image Editing Platform) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 54.35433 187.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 187.8898 Tm
+(Developed a Python\057Streamlit application for promotional creatives\054 including product replacement\054 image enhancement\054 shadow) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 7 Tf
+8.4 TL
+ET
+BT
+1 0 0 1 66.35 178.5898 Tm
+(extraction\054 and image upscaling\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-7 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 166.1898 Tm
+(CERTIFICATIONS \046 LEARNING) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 161.1898 m
+544 161.1898 l
+S
+0 0 0 rg
+BT
+/F1-8 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 54.35433 149.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 149.8898 Tm
+(Cisco Certifications\072 Cyber Security\054 IT Development\054 Networking \046 Operating Systems\073 Ben10 Workshop\072 AI\054 ChatGPT \046 Prompt Engineering\056) Tj
+T*
+ET
+0 0 0 rg
+BT
+/F1-8 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 54.35433 139.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 139.8898 Tm
+(NSS Volunteer\054 Social Media Coordinator \046 Event Leader\073 QCFI Certificate of Appreciation\054 Bhilai Chapter \050Oct 2025\051\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-7 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 125.1898 Tm
+(ACHIEVEMENTS) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 120.1898 m
+544 120.1898 l
+S
+0 0 0 rg
+BT
+/F1-8 6.35 Tf
+7.62 TL
+ET
+BT
+1 0 0 1 54.35433 108.8898 Tm
+<7f> Tj
+T*
+ET
+BT
+1 0 0 1 59.45433 108.8898 Tm
+(140\053 LeetCode problems solved\056) Tj
+T*
+ET
+0.12 0.25 0.36 rg
+BT
+/F2-7 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 96.1898 Tm
+(EDUCATION) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 91.1898 m
+544 91.1898 l
+S
+0 0 0 rg
+BT
+/F2-7 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 51.35433 85.8898 Tm
+(B\056Tech\056 in Computer Science and Engineering) Tj
+T*
+ET
+BT
+/F1-8 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 235.85 85.8898 Tm
+(\174 Shri Shankaracharya Technical Campus\054 Bhilai\054 Chhattisgarh) Tj
+T*
+ET
+BT
+1 0 0 1 51.35433 74.3898 Tm
+(Undergraduate Scholarship \050after Class 12\051 \174 Shri Shankaracharya Technical Campus\054 Junwani) Tj
+T*
+ET
+BT
+1 0 0 1 51.35433 62.8898 Tm
+(Aug 2023 \226 Present) Tj
+T*
+ET
+Q
+
+Q
+q
+0.0 0.0 595.2756 841.8898 re
+W
+n
+1 0 0 1 0 0 cm
+BT
+/F1-9 12 Tf
+14.4 TL
+ET
+1 1 1 rg
+n
+45 43.8898 510 62 re
+f*
+0.12 0.25 0.36 rg
+BT
+/F2-8 9.1 Tf
+10.92 TL
+ET
+BT
+1 0 0 1 51.35433 96.1898 Tm
+(EDUCATION) Tj
+T*
+ET
+0.12 0.25 0.36 RG
+0.65 w
+n
+51.35433 91.1898 m
+544 91.1898 l
+S
+0 0 0 rg
+BT
+/F2-8 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 51.35433 76.3898 Tm
+(B\056Tech\056 in Computer Science and Engineering) Tj
+T*
+ET
+BT
+/F1-9 7.25 Tf
+8.7 TL
+ET
+BT
+1 0 0 1 51.35433 65.0898 Tm
+(Shri Shankaracharya Technical Campus\054 Junwani\054 Bhilai\054 Chhattisgarh) Tj
+T*
+ET
+BT
+1 0 0 1 51.35433 53.7898 Tm
+(Undergraduate Scholarship \050after Class 12\051 \174 Aug 2023 \226 Present) Tj
 T*
 ET
 Q
@@ -464,40 +3584,210 @@ endobj
 endobj
 8 0 obj
 <<
-/BaseFont /Times-Bold
+/BaseFont /Helvetica
 /Encoding /WinAnsiEncoding
-/Name /F2
+/Name /F1
 /Subtype /Type1
 /Type /Font
 >>
 endobj
 9 0 obj
 <<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+10 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+11 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+12 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+13 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+14 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+15 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+16 0 obj
+<<
+/BaseFont /Helvetica
+/Encoding /WinAnsiEncoding
+/Name /F1
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+17 0 obj
+<<
 /BaseFont /Helvetica-Bold
 /Encoding /WinAnsiEncoding
-/Name /F3
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+18 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+19 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+20 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+21 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+22 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+23 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+24 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+25 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
+/Subtype /Type1
+/Type /Font
+>>
+endobj
+26 0 obj
+<<
+/BaseFont /Helvetica-Bold
+/Encoding /WinAnsiEncoding
+/Name /F2
 /Subtype /Type1
 /Type /Font
 >>
 endobj
 xref
-0 10
+0 27
 0000000000 65535 f 
 0000000015 00000 n 
 0000000054 00000 n 
 0000000113 00000 n 
 0000000162 00000 n 
-0000000577 00000 n 
-0000012792 00000 n 
-0000012899 00000 n 
-0000013006 00000 n 
-0000013114 00000 n 
+0000000638 00000 n 
+0000053023 00000 n 
+0000053130 00000 n 
+0000053237 00000 n 
+0000053344 00000 n 
+0000053451 00000 n 
+0000053559 00000 n 
+0000053667 00000 n 
+0000053775 00000 n 
+0000053883 00000 n 
+0000053991 00000 n 
+0000054099 00000 n 
+0000054207 00000 n 
+0000054320 00000 n 
+0000054433 00000 n 
+0000054546 00000 n 
+0000054659 00000 n 
+0000054772 00000 n 
+0000054885 00000 n 
+0000054998 00000 n 
+0000055111 00000 n 
+0000055224 00000 n 
 trailer
 <<
-/Size 10
+/Size 27
 /Root 3 0 R
 /Info 1 0 R
 >>
 startxref
-13226
+55337
 %%EOF
