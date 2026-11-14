@@ -1,0 +1,18 @@
+{
+  "name": "hariom-sharma-portfolio-node",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hariom Sharma's standalone Node.js portfolio built with Express, EJS, plain CSS, and vanilla JavaScript.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.21.2"
+  }
+}

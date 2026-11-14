@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content="Hariom Sharma — software development and implementation portfolio" />
+  <title>Hariom Sharma — Software Developer Portfolio</title>
+  <link rel="stylesheet" href="/styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="#top"><span class="brand-mark">H</span><span>HARIOM<br><em>SHARMA</em></span></a>
+    <nav id="nav" class="top-nav"><a href="#about">About</a><a href="#experience">Experience</a><a href="#skills">Skills</a><a href="#projects">Projects</a><a href="#leadership">Leadership</a><a href="#credentials">Credentials</a><a href="#contact">Contact</a></nav>
+    <a class="header-github" href="<%= profile.github %>" target="_blank" rel="noreferrer">GitHub ↗</a>
+    <button class="menu-toggle" id="menuToggle" aria-label="Toggle navigation">☰</button>
+  </header>
+
+  <main id="top">
+    <section class="hero section-wrap" id="about">
+      <div class="hero-index chapter-index">00 <span>/</span> PROFILE</div>
+      <div class="hero-copy"><p class="eyebrow">SOFTWARE DEVELOPMENT · IMPLEMENTATION · CUSTOMER SUCCESS</p><h1>I learn by<br><span>building the</span><br>whole loop.</h1><p class="hero-intro">Hey, I’m <strong><%= profile.name %></strong> — a B.Tech Computer Science student building practical software systems with equal attention to code, people, and the details between them.</p><div class="hero-actions"><a class="signal-button" href="#projects">Explore the systems ↗</a><a class="quiet-link" href="<%= profile.resume %>" download>Download resume ↗</a><a class="quiet-link" href="mailto:<%= profile.email %>">Open a conversation ✉</a></div></div>
+      <aside class="hero-aside"><div class="orbit-note"><%= profile.location %><br><span>21.1938° N · 81.3509° E</span></div><div class="hero-rule"></div><p>Currently studying<br><strong>B.Tech CSE</strong><br>2023 — 2027</p></aside>
+    </section>
+
+    <section class="profile-band section-wrap"><div class="chapter-index">01 <span>/</span> ABOUT</div><div class="profile-grid"><div><p class="section-kicker">PERSONAL DETAILS</p><h2>Technical curiosity,<br><i>human clarity.</i></h2></div><div class="profile-text"><p>I’m a fourth-year Computer Science undergraduate at Shri Shankaracharya Technical Campus. I’m drawn to the space where a product has to work in the real world: a reliable API, a clear interface, a useful data model, and a person who can explain what happens next.</p><p>My development path has been shaped by full-stack implementation, hands-on troubleshooting, and roles that ask me to coordinate people as carefully as I coordinate systems.</p><div class="mini-facts"><span><b>01</b> Systems thinker</span><span><b>02</b> Clear communicator</span><span><b>03</b> Curious builder</span></div></div></div></section>
+
+    <section class="experience-section section-wrap" id="experience"><div class="chapter-index">02 <span>/</span> EXPERIENCE</div><div class="section-heading"><p class="section-kicker">PERSONAL EXPERIENCE</p><h2>From implementation<br>to <i>understanding.</i></h2></div><div class="timeline"><% experience.forEach(item => { %><article><time><%= item[0] %></time><div><h3><%= item[1] %> <span><%= item[2] %></span></h3><p><%= item[3] %></p></div></article><% }) %></div></section>
+
+    <section class="skills-section section-wrap" id="skills"><div class="chapter-index">03 <span>/</span> CAPABILITY</div><div class="skills-layout"><div class="section-heading"><p class="section-kicker">TECHNICAL & CORE COMPONENTS</p><h2>Tools are only<br>useful when they<br><i>solve something.</i></h2><p class="heading-note">A working vocabulary built through projects, debugging, and repeated implementation.</p></div><div class="skill-list"><% skills.forEach((skill, index) => { %><div class="skill-row"><span>0<%= index + 1 %></span><div><h3><%= skill[0] %></h3><p><%= skill[1] %></p></div></div><% }) %></div></div></section>
+
+    <section class="projects-section section-wrap" id="projects"><div class="chapter-index">04 <span>/</span> SELECTED WORK</div><div class="projects-intro"><div><p class="section-kicker">KEY PROJECTS · END-TO-END IMPLEMENTATION</p><h2>Learning becomes<br><i>visible in the build.</i></h2></div><p>Personal implementation work, documented with repository links where supplied. AdSnap is kept as an individual project and can be connected to its new Node API when ready.</p></div><div class="project-grid"><% projects.forEach(project => { %><article class="project-card <%= project.tone %> <%= project.featured ? 'featured' : '' %>"><div class="project-top"><span><%= project.number %></span><span><%= project.signal %></span></div><p class="project-kind"><%= project.kind %></p><h3><%= project.title %></h3><p class="project-summary"><%= project.summary %></p><div class="project-bottom"><div class="stack"><% project.stack.forEach(tag => { %><span><%= tag %></span><% }) %></div></div><% if (project.repo) { %><a class="repo-link" href="<%= project.repo %>" target="_blank" rel="noreferrer">View repository ↗</a><% } else { %><span class="repo-link muted">Repository pending</span><% } %></article><% }) %></div></section>
+
+    <section class="leadership-section section-wrap" id="leadership"><div class="chapter-index">05 <span>/</span> LEADERSHIP</div><div class="leadership-grid"><div class="section-heading"><p class="section-kicker">LEADERSHIP & COMMUNICATION</p><h2>Good systems<br>need <i>good signals.</i></h2></div><div><p class="leadership-lead">Alongside code, I’ve built confidence through responsibility as an NSS candidate and volunteer: managing teams, coordinating events, and communicating between college, campus, and off-campus stakeholders.</p><div class="signal-points"><div><b>NSS volunteering</b><span>Seven-day camp, seminars, debates, meetings, plays, and official communication.</span></div><div><b>Event leadership</b><span>Team management, presentation coordination, technical-field support, and hospitality.</span></div><div><b>Customer-oriented thinking</b><span>Explaining technical work clearly and keeping the user’s next step in view.</span></div></div></div></div></section>
+
+    <section class="credentials-section section-wrap" id="credentials"><div class="chapter-index">06 <span>/</span> CREDENTIALS</div><div class="projects-intro"><div><p class="section-kicker">CERTIFICATIONS & COURSEWORK</p><h2>Evidence of<br><i>staying curious.</i></h2></div><p>Certificates that mark the practice behind the projects: full-stack development, AI tools, cloud computing, robotics, and event contribution.</p></div><div class="cert-grid"><% certificates.forEach(cert => { %><a class="cert-card" href="<%= cert[2] %>" target="_blank" rel="noreferrer"><div class="cert-image"><img src="<%= cert[2] %>" alt="<%= cert[0] %> certificate"></div><div class="cert-meta"><span><%= cert[1] %></span><h3><%= cert[0] %></h3><b>↗</b></div></a><% }) %></div></section>
+
+    <section class="education-section section-wrap"><div class="chapter-index">07 <span>/</span> EDUCATION</div><div class="education-card"><div><p class="section-kicker">EDUCATION</p><h2>Shri Shankaracharya<br><i>Technical Campus</i></h2></div><div class="education-details"><p>B.Tech. in Computer Science and Engineering</p><strong>Aug 2023 — Present</strong><span>Bhilai, Chhattisgarh</span></div></div></section>
+
+    <section class="contact-section section-wrap" id="contact"><div class="chapter-index">08 <span>/</span> CONTACT</div><div class="contact-content"><p class="section-kicker">OPEN CHANNEL</p><h2>Let’s talk about<br><i>what needs building.</i></h2><div class="contact-links"><a href="mailto:<%= profile.email %>">✉ <%= profile.email %> ↗</a><a href="tel:+919103745223">+91 <%= profile.phone.replace('+91 ', '') %> ↗</a><a href="<%= profile.github %>" target="_blank" rel="noreferrer">GitHub ↗</a><a href="<%= profile.leetcode %>" target="_blank" rel="noreferrer">LeetCode ↗</a><a href="<%= profile.linkedin %>" target="_blank" rel="noreferrer">LinkedIn ↗</a></div></div></section>
+  </main>
+  <footer class="site-footer"><span>HARIOM SHARMA · NODE.JS PORTFOLIO</span><span>BUILT WITH EXPRESS / <%= year %></span><a href="#top">Back to top ↑</a></footer>
+  <script src="/app.js"></script>
+</body>
+</html>
